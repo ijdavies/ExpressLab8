@@ -1,0 +1,14 @@
+{
+  "name": "expressApp",
+  "version": "1.0.0",
+  "description": "\"My first express module\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "pwd"
+  },
+  "author": "\"Ian Davies\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
